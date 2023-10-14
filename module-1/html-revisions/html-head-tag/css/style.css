@@ -1,0 +1,14 @@
+body
+{
+    background-color: darkcyan;
+    color: white;
+}
+div
+{
+    width: 60%;
+    height: auto;
+    margin: auto;
+    padding: 25px;
+    margin-top: 10%;
+    background-color: blue;
+}
